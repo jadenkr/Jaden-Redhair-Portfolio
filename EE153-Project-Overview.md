@@ -13,4 +13,4 @@ To control the power flow through the transformer, I employ a MOSFET switch, req
 **Simulation-Driven Design:** Harnessing the power of simulation circuits, we establish a reliable foundation for our design process. These simulations provide invaluable guidance, enabling us to anticipate circuit behavior and make informed decisions before moving on to physical manufacturing.
 
 ### Lab Report
-For a detailed exploration of my project, I encourage you to review my comprehensive lab report. Within its pages, you will find an in-depth analysis of my methodologies, experimental setup, results, and conclusions. It offers a thorough understanding of my research journey, providing insights into the practical aspects of power electronics.
+For a detailed exploration of my project, I encourage you to review my comprehensive IEEE lab report. Within its pages, you will find an in-depth analysis of my methodologies, experimental setup, results, and conclusions. It offers a thorough understanding of my research journey, providing insights into the practical aspects of power electronics.
