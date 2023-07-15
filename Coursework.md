@@ -1,1 +1,3 @@
-
+# Stanford University Courses
+## EE 153: Power Electronics
+Addressing the energy challenges of today and the environmental challenges of the future will require efficient energy conversion techniques. This course will discuss the circuits used to efficiently convert ac power to dc power, dc power from one voltage level to another, and dc power to ac power. The components used in these circuits (e.g., diodes, transistors, capacitors, inductors) will also be covered in detail to highlight their behavior in a practical implementation. A lab will be held with the class where students will obtain hands on experience with power electronic circuits
