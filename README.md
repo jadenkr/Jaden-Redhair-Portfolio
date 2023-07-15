@@ -19,6 +19,4 @@ As an electrical engineering student, I have completed various courses that have
 find a document providing descriptions of the courses I have taken.
 
 ## 📬 Contact Me
-Email: jadenkirklee@gmail.com
-Phone: (928)551-1595
-LinkedIn: https://www.linkedin.com/in/jadenkr/
+Email: jadenkirklee@gmail.com | Phone: (928)551-1595 | LinkedIn: https://www.linkedin.com/in/jadenkr/
